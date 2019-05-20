@@ -18,4 +18,4 @@ Paul Simko - Physics Master / Ragdoll Implementation / Coder
 Ike Lear - Integration of Customizable Controls & Settings / Coder / Soundtrack Co-Producer
 Calvin Sewell - Map Designer / Asset Creator / Soundtrack Producer   
 
-Flip Fighters | Copyright 2019. All rights reserved
+Flip Fighters | Copyright 2019. All rights Reserved.
