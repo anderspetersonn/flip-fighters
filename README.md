@@ -11,6 +11,8 @@ Get your opponent's health to 0 or knock them off the platform to win!
 
 Created by Master Pushers LLC. 
 
+The latest pre-built EXE/package is available for download on our OGPC entry page! See linked website on our GitHub page.
+
 Credits-
 
 Anders Peterson - UI Designer / Coder
