@@ -16,8 +16,11 @@ The latest pre-built EXE/package is available for download on our OGPC entry pag
 Credits-
 
 Anders Peterson - UI Designer / Coder https://github.com/anderspetersonn
+
 Paul Simko - Physics Master / Ragdoll Implementation / Coder https://github.com/pasimko
+
 Ike Lear - Integration of Customizable Controls & Settings / Coder / Soundtrack Co-Producer https://github.com/ikelear
+
 Calvin Sewell - Map Designer / Asset Creator / Soundtrack Producer https://github.com/calvinsewell
 
 Flip Fighters | Copyright 2019. All rights Reserved.
