@@ -23,4 +23,4 @@ Ike Lear - Integration of Customizable Controls & Settings / Coder / Soundtrack 
 
 Calvin Sewell - Map Designer / Asset Creator / Soundtrack Producer https://github.com/calvinsewell
 
-Flip Fighters | Copyright 2019. All rights Reserved.
+Flip Fighters | Copyright 2019. All Rights Reserved.
