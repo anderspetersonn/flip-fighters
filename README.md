@@ -3,7 +3,7 @@ Stick Fighter Game (C# with UnityEngine)
 
 Flip Fighters: The Game
 
-DISCLAIMER: The game is currently still in development. We are aware of this and invite you to report any bugs or questions to the following email: anderscpeterson@gmail.com
+DISCLAIMER: This game is still in development and may contain minor issues. We are aware of this and invite you to report any bugs or questions to the following email: anderscpeterson@gmail.com
 
 Grab a friend and tell 'em to come play the new hit classic produced by Master Pushers: Flip Fighters. Once their excitement has died down, head over to the keyboard and pick out your controls, or stick with the defaults we've decided on after centuries of playtesting. Our map artisans have homebrewed some spicy levels for you and your buddies to enjoy, so make sure to try them all out!
 
