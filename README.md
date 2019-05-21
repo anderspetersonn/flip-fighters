@@ -1,5 +1,6 @@
 # flip-fighters
-Stick Fighter Game (C# with UnityEngine) 
+![flip-fighters-cover](https://user-images.githubusercontent.com/47459855/58119705-75ad4780-7bb8-11e9-963b-f7a9db768ab2.jpeg)
+
 
 Flip Fighters: The Game
 
