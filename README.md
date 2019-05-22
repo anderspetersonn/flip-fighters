@@ -4,7 +4,7 @@
 
 Flip Fighters: The Game
 
-DISCLAIMER: This game is still in development and may contain minor issues. We are aware of this and invite you to report any bugs or questions to the following email: anderscpeterson@gmail.com
+DISCLAIMER: This game is still in development and may contain minor issues. Please submit issue tickets as needed.
 
 Grab a friend and tell 'em to come play the new hit classic produced by Master Pushers: Flip Fighters. Once their excitement has died down, head over to the keyboard and pick out your controls, or stick with the defaults we've decided on after centuries of playtesting. Our map artisans have homebrewed some spicy levels for you and your buddies to enjoy, so make sure to try them all out!
 
@@ -14,7 +14,7 @@ Get your opponent's health to 0 or knock them off the platform to win!
 
 Created by Master Pushers LLC. 
 
-The latest pre-built EXE/package is available for download on our OGPC entry page! See linked website on our GitHub page.
+The latest pre-built EXE/package is available for download on our OGPC entry page! (https://tms.ogpc.info/Games/Details/5b0ec4d0-0ebb-4cfe-8117-a6f4208cc7e6)
 
 Credits-
 
